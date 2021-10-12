@@ -1,0 +1,29 @@
+.singleshow {
+	display: flex;
+	padding: 30px;
+}
+.singleshow img {
+	height: 50%;
+	object-fit: contain;
+}
+.singleshow__info {
+	margin: 0 40px;
+}
+.singleshow__info p {
+	margin: 15px 0;
+}
+.singleshow h1 {
+	margin-bottom: 23px;
+}
+.singleshow__genre {
+	padding: 6px;
+	margin: 8px;
+	background: #22cc5b;
+	color: #fff;
+	border-radius: 12px;
+}
+.singleshow__book {
+	display: flex;
+	justify-content: center;
+	margin-top: 15px;
+}
